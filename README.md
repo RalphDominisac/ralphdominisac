@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ralphdominisac" alt="ralphdominisac" /></a> </p>
 
-- 🔭 Current Front-End Development Intern at Mugna Technologies Inc. [Mugna Technologies Inc.](https://mugna.tech/)
+- 🔭 Current 4th Year Computer Science Student at Ateneo de Davao University. [Ateneo de Davao University](https://sas.addu.edu.ph/)
 
 - 🌱 I’m currently learning **Machine Learning in Python and NextJS**
 
