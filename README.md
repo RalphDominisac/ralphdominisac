@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/O3Bxs16.gif)](https://github.com/RalphDominisac?tab=repositories)
+[![MasterHead](https://wallpaperaccess.com/full/4910984.gif)](https://github.com/RalphDominisac?tab=repositories)
 <h1 align="center">Hi 👋, I'm Ralph Henry L. Dominisac</h1>
 <h3 align="center">A research-driven and highly organized worker bringing articulate communication skills and strong attention to detail, especially when it comes to data gathering and researching at the web. Dedicated, responsible and eager to grow abilities while boosting operational success throughout workflows.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
