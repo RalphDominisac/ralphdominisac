@@ -6,7 +6,7 @@
 
 - 🔭 Current 4th Year Computer Science Student at [Ateneo de Davao University.](https://sas.addu.edu.ph/)
 
-- 🌱 I’m currently learning **Machine Learning in Python and NextJS**
+- 🌱 I’m currently learning **DevSecOps, Github Actions, Cloud Computing, and Advanced Python.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ralph-henry-dominisac-36bb4b220/](https://www.linkedin.com/in/ralph-henry-dominisac-36bb4b220/)
 
