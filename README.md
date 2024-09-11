@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ralph-henry-dominisac-36bb4b220/](https://www.linkedin.com/in/ralph-henry-dominisac-36bb4b220/)
 
-- ⚡ Fun fact **Musichead and Drummer**
+- ⚡ Fun fact **Musichead and an Instrumentalist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
