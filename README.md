@@ -4,11 +4,9 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ralphdominisac" alt="ralphdominisac" /></a> </p>
 
-- 🔭 Current 4th Year Computer Science Student at [Ateneo de Davao University.](https://sas.addu.edu.ph/)
+- 🔭 BS-Computer Science Graduate at [Ateneo de Davao University.](https://www.addu.edu.ph/)
 
-- 🌱 I’m currently learning **DevSecOps, Github Actions, Cloud Computing, and Advanced Python.**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ralph-henry-dominisac-36bb4b220/](https://www.linkedin.com/in/ralph-henry-dominisac-36bb4b220/)
+- 🌱 I’m currently learning **DevSecOps, Github Actions, Cloud Computing, and Advanced Python**. Specializes in **GCP, AWS, and Azure.**
 
 - 📫 How to reach me **ralphdominisac@gmail.com**
 
