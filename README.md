@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ralph Henry L. Dominisac</h1>
 <h3 align="center">A resourceful team player with experience on common software applications and social media platforms. Well-versed in Python, Java, React, and team strategies and task organizations for attaining a successful project outcome. Skilled at project support with proven history of solutions-oriented problem solving through machine-learning, React, and Spring Boot projects. Currently specializes in Cloud Computing with Google Cloud Platform, Microsoft Azure, and Amazon Web Services. Progressively continues to master every DevSecOps aspects and fundamentals.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ralphdominisac" alt="ralphdominisac" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ralphdominisac" alt="ralphdominisac" /></a> </p> -->
 
 - 🔭 BS-Computer Science Graduate at [Ateneo de Davao University.](https://www.addu.edu.ph/)
 
